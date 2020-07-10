@@ -3,47 +3,12 @@ guid: 98986df8c2692fe58b86133746676877
 ModelImporter:
   serializedVersion: 19300
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Hairs
-    second: {fileID: 2100000, guid: 3bb0e1921d5e16369986f05292fd3fe7, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Light Hairs
-    second: {fileID: 2100000, guid: 7038a4eb76ce0c57e811cb13adcc1b36, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material
-    second: {fileID: 2100000, guid: 1c5f72008f4f704b8b33b43862149a10, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: red
-    second: {fileID: 2100000, guid: e15a714772b141a6b97175dbc765b816, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: shoes
-    second: {fileID: 2100000, guid: b8b8393eea627d0f7a3a1cc2073abe81, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: shorts
-    second: {fileID: 2100000, guid: ad0d4753eab4692ebbcb20b06feb0bfc, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: t-shirt
-    second: {fileID: 2100000, guid: c252bd65a2ff0d92782e9f4695c80f44, type: 2}
+  externalObjects: {}
   materials:
     materialImportMode: 1
     materialName: 0
     materialSearch: 1
-    materialLocation: 0
+    materialLocation: 1
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
